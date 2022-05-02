@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS questions(
+    ques_id INT(11) NOT NULL AUTO_INCREMENT,
+    title VARCHAR(200) NOT NULL,
+    optionA VARCHAR(200) NOT NULL,
+    optionB VARCHAR(200) NOT NULL,
+    optionC VARCHAR(200) NOT NULL,
+    ans VARCHAR(200) NOT NULL,
+    chose VARCHAR(200) NOT NULL,
+    PRIMARY KEY(ques_id)
+);

@@ -1,0 +1,8 @@
+SMA\QuizApp\QuizAppApplication.class
+SMA\QuizApp\repository\ResultRepo.class
+SMA\QuizApp\controller\MainController.class
+SMA\QuizApp\model\Result.class
+SMA\QuizApp\repository\QuestionRepo.class
+SMA\QuizApp\model\Question.class
+SMA\QuizApp\model\QuestionForm.class
+SMA\QuizApp\service\QuizService.class
